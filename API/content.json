@@ -1,0 +1,169 @@
+{"intents":
+  [
+    {
+      "tag":"qa1",
+      "patterns":[
+        "Give me a plan for study to boost my professional development?"
+        ],
+      
+      "responses":[
+        "*Find a subject to study\nSet a long-term study plan\n*Update your CV/Resume\n*Find a mentor\n*Create a prosessional portfolio"
+      ]
+    },
+    {
+      "tag":"goodbye",
+      "patterns":[
+        "Give me a plan for How to code a Mobile App"
+        ],
+
+      "responses":[
+        "*Read documentations and watch videos related to mobile app development\n*Refer books about programming\n*Build a programming environment\n*Install coding tools\n*Study/Learn designing tools"
+      ]
+    },
+    {
+      "tag":"wantplaygame",
+      "patterns":[
+        "Give me a plan for my One week exam cram"
+        ],
+
+      "responses":[
+          "*Create a focused study session\n*Quiz yourself\n*Find a quiet,comfortable place for you to study\n*Make your own study guide\n*Get a full night's sleep before taking the exam"
+          ]
+    },
+    {
+      "tag":"howami",
+      "patterns":[
+        "Give me a plan for master a new language"
+        ],
+
+      "responses":[
+        "*Fing language teaching video in youtube\n*Speak with native speakers as often you can\n*Overcome any fear of making mistakes\n*Master various idioms and expressions\n*Practice speaking the language in your daily life"
+      ]
+      
+    },
+    {
+      "tag":"join",
+      "patterns":[
+        "Give me a study plan for my final year research project"
+        ],
+
+      "responses":[
+        "*Select a research tpoic and get it approved by your supervisor and lecturer\n*Conduct Preliminary literature review and gather resources related to your topic\n*Take time for research and reading"
+      ]
+      
+    },
+    {
+      "tag":"okresponse",
+      "patterns":[
+        "Give me a guidance to ready for my presentation"
+        ],
+
+      "responses":[
+        "*Create visually appealing slides\n*Prepare a script before ready to presentation\n*Schedule a practice session with a friend or mentor for feedback\n*Practice presenting in front of a mirror\nReview and revise he slides regularly"
+      ]
+      
+    },
+    {
+      "tag":"noresponse",
+      "patterns":[
+        "Give me a study plan for my final exam in DSA"
+        ],
+
+      "responses":[
+        "*Study for at least 2 hours every day\n*Review previous topics regularly\n*Practice solving coding problems\n*Join a study group or find a study partner\n*Take mock exams to assess preparedness\nCreate a study session\nGather all required study materials"
+      ]
+      
+    },
+    {
+      "tag":"howjoin",
+      "patterns":[
+        "Give me a study plan for learning Data Science"
+        ],
+
+      "responses":[
+        "*Identify core data science topics to study\n*Enroll in online courses or attend workshops\n*Regularly review and update your study progress\n*Dedicate specific times each week for focused study sessions.\nPractice coding in Python\nJoin online data science communities and forums"
+      ]
+      
+    },
+    {
+      "tag":"howjoin1",
+      "patterns":[
+        "Give me a plan for Preparing for a Job Interview"
+        ],
+
+      "responses":[
+        "*Research the company\n*Review the job description and required skills\n*Prepare answers for common interview questions\n*Practice your responses with a friend or mentor\n*Update and review your CV/Resume\nPlan your interview attire"
+      ]
+    },
+    {
+      "tag":"howjoin2",
+      "patterns":[
+        "Give me a Plan for Learning Public Speaking"
+        ],
+
+      "responses":[
+        "*Identify areas of improvement in public speaking\n*Enroll in a public speaking course or join a Toastmasters club.\n*Practice speaking in front of a mirror or record yourself\nPrepare and practice short speeches on various topics\nSeek feedback from peers or mentors\nFocus on body language and eye contact"
+      ]
+    },
+    {
+      "tag":"howjoin3",
+      "patterns":[
+        "Give me a Plan for Developing Time Management Skills"
+        ],
+
+      "responses":[
+        "*Identify areas where you spend most of your time\n*Set specific and achievable goals for managing your time\n*Create a daily or weekly schedule\n*Prioritize tasks based on importance and deadlines\nReview and adjust your time management plan regularly\nUse tools like calendars, planners, or apps to stay organized"
+      ]
+    },
+    {
+      "tag":"howjoin4",
+      "patterns":[
+        "Give me a Plan for Learning Graphic Design"
+        ],
+
+      "responses":[
+        "*Identify essential graphic design skills to learn\n*Enroll in online courses or attend workshops\n*Gather study materials and resources\n*Practice designing using tools like Adobe Photoshop, Illustrator, or Canva\nCreate a portfolio of your work\nStudy and analyze design principles and trends"
+      ]
+    },
+    {
+      "tag":"howjoin5",
+      "patterns":[
+        "Give me a Plan for Learning Project Management"
+        ],
+
+      "responses":[
+        "*Identify key project management methodologies\n*Enroll in online courses or attend workshops\n*Gather study materials and resources\n*Practice managing small projects\n*Join project management communities and forums\nLearn to create and manage project plans and timelines"
+      ]
+    },
+    {
+      "tag":"howjoin6",
+      "patterns":[
+        "Give me a Plan for Mastering Figma Design Practices"
+        ],
+
+      "responses":[
+        "*Familiarize with Figma Interface\n*Learn Basic Design Principles\n*Practice Creating Basic Designs\n*Master Figma Features\n*Work on Real Projects\n*Collaborate and Share"
+      ]
+    },
+    {
+      "tag":"howjoin7",
+      "patterns":[
+        "Give me a Plan for Thesis Report Writing"
+        ],
+
+      "responses":[
+        "*Select a Research Topic and get it approved by your supervisor\n*Conduct Preliminary Research\n*Create an Outline\n *Write the Introduction\n*Write the Literature Review\n*Write the Methodology"
+      ]
+    },
+    {
+      "tag":"howjoin8",
+      "patterns":[
+        "Give me a Plan for Reflective Report Writing"
+        ],
+
+      "responses":[
+        "*Understand the Requirements\n*Identify Experiences to Reflect On\n*Create an Outline\n*Write the Introduction\n*Describe the Experiences\n*Identify Lessons Learned"
+      ]
+    }
+  ]
+}
